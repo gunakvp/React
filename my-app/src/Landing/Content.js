@@ -3,7 +3,7 @@ import React from "react";
 const Content = (props) => {
   return (
     <section className="content">
-      <h1>Get Started with AI Test</h1>
+      <h1>Get Started with AI</h1>
       <p>
         Begin your journey to build the perfect website using our AI, designed
         to craft tailored content, images, and layouts based on your specific
