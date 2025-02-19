@@ -47,13 +47,39 @@ nav {
   font-size: 20px;
 }
 
-.btn {
-  border: none;
-  padding: 3px;
+.btn-blue {
+  padding: 5px 10px;
   font-size: 14px;
   margin-right: 10px;
   margin-top: 15px;
   cursor: pointer;
+  background:#172c4a;
+  color:#fff;
+  border-radius: 5px;
+  border:1px solid #fff;
+}
+
+.btn-blue:hover{
+  background:#fff;
+  color:#172c4a;
+  border:1px solid #172c4a;
+}
+
+.btn-gray {
+  padding: 5px 10px;
+  font-size: 14px;
+  margin-right: 10px;
+  margin-top: 15px;
+  cursor: pointer;
+  background:#7e7e7e;
+  color:#fff;
+  border-radius: 5px;
+  border:1px solid #7e7e7e;
+}
+.btn-gray:hover{
+  background:#fff;
+  color:#7e7e7e;
+  border:1px solid #7e7e7e;
 }
 
 .card-block {

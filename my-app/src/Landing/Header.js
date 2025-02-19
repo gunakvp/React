@@ -13,8 +13,8 @@ const Header = () => {
       </div>
       <nav>
         <div>
-          <Button  title="Sign In" />
-          <Button title="Register" />
+          <Button classname="btn-blue"  title="Sign In" />
+          <Button classname="btn-gray"  title="Register" />
         </div>
       </nav>
     </header>
